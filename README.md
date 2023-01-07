@@ -12,7 +12,7 @@
 
 Consiste en:
 
-1. Sistema de autenticación de usuario para que solo usuarios pertenecientes al hotel consigan acceder al sistema
+1. Sistema de autenticación para que solo usuarios pertenecientes al hotel consigan acceder al sistema
 2. Permitir crear, editar y eliminar una reserva para los clientes
 3. Buscar en la base de datos todas las informaciones tanto de los clientes como de las reservas
 4. Registrar, editar y eliminar datos de los huéspedes
