@@ -60,5 +60,6 @@ El siguiente paso es extraer los archivos a una carpeta e importar los archivos 
 
 ---
 
-💙 <strong>Contacto</strong>  <a href="https://www.linkedin.com/in/christian-camilo-huila-garces/" target="_blank">
+💙 <strong>Contacto</strong>  
+<a href="https://www.linkedin.com/in/christian-camilo-huila-garces/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
