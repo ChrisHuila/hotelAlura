@@ -1,11 +1,14 @@
 ## HotelAlura
-###Challenge ONE | Java | Back-end
+<h3> Challenge ONE | Java | Back-end </h3>
+
 
 <p align="center" >
      <img width="300" heigth="300" src="https://user-images.githubusercontent.com/91544872/189419040-c093db78-c970-4960-8aca-ffcc11f7ffaf.png">
 </p>
+
 ---
-**HotelAlura** es una App de sistema de reservas, basado en **JAVA** y **MySQL**, fue realizado como desafío del Challenge Java en **#ONE – Oracle Next Education**.
+
+<strong>HotelAlura</strong> es una App de sistema de reservas, basado en  <strong>JAVA</strong> y <strong>MySQL</strong>, fue realizado como desafío del Challenge Java en <strong>#ONE – Oracle Next Education</strong>.
 
 Consiste en:
 
@@ -15,7 +18,9 @@ Consiste en:
 4. Registrar, editar y eliminar datos de los huéspedes
 5. Calcular el valor de la reserva
 6. Base de datos para almacenar todos los datos pedidos anteriormente.
+
 ---
+
 ![](https://user-images.githubusercontent.com/99347883/211170224-a286f0dd-cf49-40d2-ae8a-18109cfbe8f2.png)
 
 ![](https://user-images.githubusercontent.com/99347883/211170218-a053c35c-943d-4bed-8d0e-9837c62c73d4.png)
