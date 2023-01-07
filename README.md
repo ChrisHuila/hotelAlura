@@ -45,7 +45,9 @@ Consiste en:
 ## Getting Started with HotelAlura
 
 usuario: admin
+
 contraseña: admin
+
 ☕ Use Java versión 8 o superior para compatibilidad. </br></br>
 📝 Se recomienda usar el editor de Eclipse para compatibilidad con la Interfaz Gráfica. </br></br>
 📅 JCalendar  es necesario instalar la librería <strong>JCalendar</strong>
