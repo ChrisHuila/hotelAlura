@@ -44,8 +44,8 @@ Consiste en:
 ---
 ## Getting Started with HotelAlura
 
-- usuario: admin
-- contraseña: admin
+- Usuario: admin
+- Contraseña: admin
 
 ☕ Use Java versión 8 o superior para compatibilidad. </br></br>
 📝 Se recomienda usar el editor de Eclipse para compatibilidad con la Interfaz Gráfica. </br></br>
