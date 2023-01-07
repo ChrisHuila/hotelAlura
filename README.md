@@ -56,8 +56,8 @@ Para instalar, se necesita descargar el paquete a través de ese enlace:
 
 El siguiente paso es extraer los archivos a una carpeta e importar los archivos desde la carpeta <strong>lib</strong> a una carpeta local e importar los archivos a Eclipse.
 
-📊 importar MySqlConnector al proyecto
-📊 Copiar la carpeta <strong>hotelalura</strong> del directorio hotelAlura/db_hotelAlura para tener la base de datos
+📊 importar MySqlConnector al proyecto. </br></br>
+📊 Copiar la carpeta <strong>hotelalura</strong> del directorio hotelAlura/db_hotelAlura para tener la base de datos.
 
 ---
 
